@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+
+        <Button
+            android:id="@+id/un"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="1"
+             />
+        <Button
+            android:id="@+id/deux"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="2"
+             />
+        <Button
+            android:id="@+id/trois"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="3"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+
+        <Button
+            android:id="@+id/quatre"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="4"
+            />
+        <Button
+            android:id="@+id/cinq"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="5"
+            />
+        <Button
+            android:id="@+id/six"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="6"
+             />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+
+        <Button
+            android:id="@+id/sept"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="7"
+            />
+        <Button
+            android:id="@+id/huit"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="8"
+            />
+        <Button
+            android:id="@+id/neuf"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text=""
+            />
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/sff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SHUFFLE"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

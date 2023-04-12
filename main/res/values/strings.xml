@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Puzzle</string>
+    <string name="un">Button</string>
+    <string name="sff">Button</string>
+    <string name="deux">Button</string>
+    <string name="trois">Button</string>
+    <string name="quatre">Button</string>
+    <string name="cinq">Button</string>
+    <string name="six">Button</string>
+    <string name="sept">Button</string>
+    <string name="huit">Button</string>
+    <string name="neuf">Button</string>
+
+
+</resources>
